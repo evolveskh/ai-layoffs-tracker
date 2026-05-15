@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import "@fontsource/inter/400.css";
 import "@fontsource/inter/500.css";
@@ -48,6 +50,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           </div>
         </header>
         <main>{children}</main>
+        <Analytics />
+        <SpeedInsights />
         <footer className="border-t border-[#171717] mt-20 py-8 text-center text-[13px] text-[#525252]">
           <p>Data sourced from public company filings, layoffs.fyi, and news reports. Last updated daily.</p>
           <p className="mt-2 flex items-center justify-center gap-4">
