@@ -31,7 +31,10 @@ export const metadata: Metadata = {
     description: "Companies fired thousands. Then spent billions on AI. See the numbers.",
     images: ["/opengraph-image"]
   },
-  robots: { index: true, follow: true, googleBot: { index: true, follow: true } }
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
+  verification: {
+    google: "4YnZl62UIqfCNePp4iAQyD_owPR-4p1SR6C3nN2Bjcg"
+  }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
