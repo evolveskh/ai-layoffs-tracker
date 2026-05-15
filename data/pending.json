@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pending-msft-001",
+    "company_id": "microsoft",
+    "type": "layoff",
+    "date": "2026-05-13",
+    "number": null,
+    "amount": null,
+    "description": "Microsoft-owned LinkedIn planning to lay off 5% of staff (~1,000 employees) — exact number pending current headcount verification",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYlNwRmtuNFk4c2w2M0l2SWsxaW4wMmQ3TndEQVY2UUdSWFhXNzhCS1RHZkg1ZFFPcGlJMmZiTzNqMjZ0U2JtWWFlR1RORVhOcjhualhsTV83WmxEZ2ROMEIwWEhQTEhVYmd0WmlhWC1DaGh0QjhHVWQ3TW5uMldTRF8xdm9BNmp1aHJ5YWRCOGF6RnpRYzA2ZlFlUXRLMHltdnNrazFYcko3Y2IwZDVvQm95N1NDTHBNVUFTMjhJTUZreGxvTGtOdXR4Zw",
+    "source_name": "Reuters",
+    "confidence": 0.9,
+    "notes": "Title states '5% of staff' but exact employee count not provided. Estimated ~1,000 based on LinkedIn's ~19,500 headcount. Needs confirmation.",
+    "reviewed": false
+  }
+]
