@@ -44,6 +44,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main>{children}</main>
         <footer className="border-t border-slate-700/50 mt-20 py-8 text-center text-sm text-slate-500">
           <p>Data sourced from public company filings, layoffs.fyi, and news reports. Last updated daily.</p>
+          <p className="mt-2 flex items-center justify-center gap-4">
+            <a href="https://github.com/evolveskh/ai-layoffs-tracker" className="hover:text-white transition">GitHub</a>
+            <span>·</span>
+            <a href="https://ai-layoffs-tracker-gamma.vercel.app" className="hover:text-white transition">ai-layoffs-tracker-gamma.vercel.app</a>
+          </p>
           <p className="mt-1">© {new Date().getFullYear()} AI-Layoffs Tracker</p>
         </footer>
       </body>

@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 AI-Layoffs Tracker
 
-## Getting Started
+[**ai-layoffs-tracker-gamma.vercel.app**](https://ai-layoffs-tracker-gamma.vercel.app)
 
-First, run the development server:
+Track which tech companies are firing thousands while spending billions on AI — side-by-side dashboard updated daily.
 
+## Live
+**https://ai-layoffs-tracker-gamma.vercel.app**
+
+## Features
+- 22+ tech companies tracked (Meta, Google, Amazon, Microsoft, Oracle, Apple, Nvidia, and more)
+- Layoffs vs AI investment side-by-side comparison
+- Sortable table + dual-axis chart
+- Detailed per-company timeline with sources
+- SEO-optimized with dynamic OG images for X/Twitter
+- Auto-updated daily via Hermes Agent cron
+
+## Tech Stack
+- Next.js 16 + TypeScript
+- Tailwind CSS v4
+- Recharts
+- @vercel/og (dynamic social cards)
+- Deployed on Vercel
+
+## Data
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+data/companies.json  # Company metadata (22 companies)
+data/events.json     # Layoff + investment events (60+ events)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Dev
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm install
+npm run dev     # localhost:3000
+npm run build   # production build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Deploy
 
-## Learn More
+```bash
+vercel --prod
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Daily Update
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The [collect-news.mjs](scripts/collect-news.mjs) script scrapes Google News RSS for tech layoff and AI investment headlines. A Hermes Agent cron job runs daily at 9AM KL time, extracts structured data, and auto-publishes high-confidence events.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MIT
