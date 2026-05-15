@@ -1,0 +1,222 @@
+[
+  {
+    "id": "meta",
+    "name": "Meta Platforms Inc.",
+    "ticker": "META",
+    "sector": "Big Tech",
+    "logo_url": "/logos/meta.png",
+    "total_employees": 72000,
+    "description": "Social media and metaverse company behind Facebook, Instagram, WhatsApp, and Threads.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "google",
+    "name": "Alphabet Inc. (Google)",
+    "ticker": "GOOGL",
+    "sector": "Big Tech",
+    "logo_url": "/logos/google.png",
+    "total_employees": 182000,
+    "description": "Search, cloud, and AI conglomerate behind Google Search, YouTube, Cloud, and DeepMind.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon.com Inc.",
+    "ticker": "AMZN",
+    "sector": "Big Tech",
+    "logo_url": "/logos/amazon.png",
+    "total_employees": 1525000,
+    "description": "E-commerce and cloud computing giant. Parent of AWS.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft Corporation",
+    "ticker": "MSFT",
+    "sector": "Big Tech",
+    "logo_url": "/logos/microsoft.png",
+    "total_employees": 228000,
+    "description": "Enterprise software, cloud (Azure), and AI leader. Major investor in OpenAI.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle Corporation",
+    "ticker": "ORCL",
+    "sector": "Enterprise",
+    "logo_url": "/logos/oracle.png",
+    "total_employees": 164000,
+    "description": "Database and enterprise cloud software giant.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "apple",
+    "name": "Apple Inc.",
+    "ticker": "AAPL",
+    "sector": "Big Tech",
+    "logo_url": "/logos/apple.png",
+    "total_employees": 164000,
+    "description": "Consumer electronics and services. Developing Apple Intelligence.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla Inc.",
+    "ticker": "TSLA",
+    "sector": "Other",
+    "logo_url": "/logos/tesla.png",
+    "total_employees": 140000,
+    "description": "Electric vehicle and clean energy company with major AI/autonomy investments.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce Inc.",
+    "ticker": "CRM",
+    "sector": "SaaS",
+    "logo_url": "/logos/salesforce.png",
+    "total_employees": 72000,
+    "description": "CRM and enterprise cloud software leader with Einstein AI platform.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "intel",
+    "name": "Intel Corporation",
+    "ticker": "INTC",
+    "sector": "Semiconductor",
+    "logo_url": "/logos/intel.png",
+    "total_employees": 108000,
+    "description": "Semiconductor chip manufacturer investing in AI chip fabrication.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "ibm",
+    "name": "IBM Corporation",
+    "ticker": "IBM",
+    "sector": "Enterprise",
+    "logo_url": "/logos/ibm.png",
+    "total_employees": 282000,
+    "description": "Enterprise IT, consulting, and AI (watsonx) company.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "sap",
+    "name": "SAP SE",
+    "ticker": "SAP",
+    "sector": "Enterprise",
+    "logo_url": "/logos/sap.png",
+    "total_employees": 107000,
+    "description": "Enterprise resource planning (ERP) software leader with AI copilot Joule.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "cisco",
+    "name": "Cisco Systems Inc.",
+    "ticker": "CSCO",
+    "sector": "Enterprise",
+    "logo_url": "/logos/cisco.png",
+    "total_employees": 85000,
+    "description": "Networking hardware and enterprise technology company.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "paypal",
+    "name": "PayPal Holdings Inc.",
+    "ticker": "PYPL",
+    "sector": "SaaS",
+    "logo_url": "/logos/paypal.png",
+    "total_employees": 27000,
+    "description": "Digital payments platform integrating AI for fraud detection and commerce.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify Technology SA",
+    "ticker": "SPOT",
+    "sector": "Other",
+    "logo_url": "/logos/spotify.png",
+    "total_employees": 9000,
+    "description": "Music and podcast streaming service with AI-powered recommendations and AI DJ.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "uber",
+    "name": "Uber Technologies Inc.",
+    "ticker": "UBER",
+    "sector": "Other",
+    "logo_url": "/logos/uber.png",
+    "total_employees": 30000,
+    "description": "Ride-hailing and delivery platform investing in autonomous vehicle AI.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "lyft",
+    "name": "Lyft Inc.",
+    "ticker": "LYFT",
+    "sector": "Other",
+    "logo_url": "/logos/lyft.png",
+    "total_employees": 6500,
+    "description": "Ride-sharing platform with AI-driven pricing and routing.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "twitter",
+    "name": "X Corp. (formerly Twitter)",
+    "ticker": null,
+    "sector": "Other",
+    "logo_url": "/logos/twitter.png",
+    "total_employees": 1500,
+    "description": "Social media platform, now private. Developing Grok AI via xAI.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "snap",
+    "name": "Snap Inc.",
+    "ticker": "SNAP",
+    "sector": "Other",
+    "logo_url": "/logos/snap.png",
+    "total_employees": 5000,
+    "description": "Camera and social media company behind Snapchat and My AI chatbot.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix Inc.",
+    "ticker": "NFLX",
+    "sector": "Other",
+    "logo_url": "/logos/netflix.png",
+    "total_employees": 13000,
+    "description": "Streaming entertainment service using AI for recommendations and content production.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "shopify",
+    "name": "Shopify Inc.",
+    "ticker": "SHOP",
+    "sector": "E-commerce",
+    "logo_url": "/logos/shopify.png",
+    "total_employees": 8000,
+    "description": "E-commerce platform with AI-powered merchant tools (Shopify Magic).",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "nvidia",
+    "name": "Nvidia Corporation",
+    "ticker": "NVDA",
+    "sector": "Semiconductor",
+    "logo_url": "/logos/nvidia.png",
+    "total_employees": 32000,
+    "description": "AI chip and computing leader. Dominant supplier of GPUs for AI training.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  },
+  {
+    "id": "dell",
+    "name": "Dell Technologies Inc.",
+    "ticker": "DELL",
+    "sector": "Enterprise",
+    "logo_url": "/logos/dell.png",
+    "total_employees": 120000,
+    "description": "PC, server, and IT infrastructure company pivoting to AI servers.",
+    "last_updated": "2026-05-15T00:00:00Z"
+  }
+]
