@@ -38,7 +38,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 37500,
     "total_investment": 100000,
-    "layoff_per_billion_ai": 375.0,
+    "layoff_per_billion_ai": 375,
     "investment_per_layoff": 2.67
   },
   {
@@ -66,8 +66,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 5000,
     "total_investment": 10000,
-    "layoff_per_billion_ai": 500.0,
-    "investment_per_layoff": 2.0
+    "layoff_per_billion_ai": 500,
+    "investment_per_layoff": 2
   },
   {
     "id": "apple",
@@ -94,7 +94,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 14500,
     "total_investment": 25000,
-    "layoff_per_billion_ai": 580.0,
+    "layoff_per_billion_ai": 580,
     "investment_per_layoff": 1.72
   },
   {
@@ -108,7 +108,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 8700,
     "total_investment": 4000,
-    "layoff_per_billion_ai": 2175.0,
+    "layoff_per_billion_ai": 2175,
     "investment_per_layoff": 0.46
   },
   {
@@ -136,7 +136,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 4900,
     "total_investment": 5000,
-    "layoff_per_billion_ai": 980.0,
+    "layoff_per_billion_ai": 980,
     "investment_per_layoff": 1.02
   },
   {
@@ -150,7 +150,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 8000,
     "total_investment": 2000,
-    "layoff_per_billion_ai": 4000.0,
+    "layoff_per_billion_ai": 4000,
     "investment_per_layoff": 0.25
   },
   {
@@ -164,7 +164,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 10300,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 10300.0,
+    "layoff_per_billion_ai": 10300,
     "investment_per_layoff": 0.1
   },
   {
@@ -178,7 +178,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 2500,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 2500.0,
+    "layoff_per_billion_ai": 2500,
     "investment_per_layoff": 0.4
   },
   {
@@ -192,7 +192,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 2100,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 2100.0,
+    "layoff_per_billion_ai": 2100,
     "investment_per_layoff": 0.48
   },
   {
@@ -206,7 +206,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 4200,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 4200.0,
+    "layoff_per_billion_ai": 4200,
     "investment_per_layoff": 0.24
   },
   {
@@ -220,7 +220,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 1072,
     "total_investment": 500,
-    "layoff_per_billion_ai": 2144.0,
+    "layoff_per_billion_ai": 2144,
     "investment_per_layoff": 0.47
   },
   {
@@ -234,7 +234,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 5700,
     "total_investment": 2000,
-    "layoff_per_billion_ai": 2850.0,
+    "layoff_per_billion_ai": 2850,
     "investment_per_layoff": 0.35
   },
   {
@@ -248,7 +248,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 530,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 530.0,
+    "layoff_per_billion_ai": 530,
     "investment_per_layoff": 1.89
   },
   {
@@ -262,7 +262,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 450,
     "total_investment": 2000,
-    "layoff_per_billion_ai": 225.0,
+    "layoff_per_billion_ai": 225,
     "investment_per_layoff": 4.44
   },
   {
@@ -276,7 +276,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 2000,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 2000.0,
+    "layoff_per_billion_ai": 2000,
     "investment_per_layoff": 0.5
   },
   {
@@ -290,7 +290,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 330,
     "total_investment": 10000,
-    "layoff_per_billion_ai": 33.0,
+    "layoff_per_billion_ai": 33,
     "investment_per_layoff": 30.3
   },
   {
@@ -304,7 +304,112 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 19650,
     "total_investment": 5000,
-    "layoff_per_billion_ai": 3930.0,
+    "layoff_per_billion_ai": 3930,
     "investment_per_layoff": 0.25
+  },
+  {
+    "id": "amd",
+    "name": "Advanced Micro Devices Inc.",
+    "ticker": "AMD",
+    "sector": "Semiconductor",
+    "logo_url": "/logos/amd.png",
+    "total_layoffs": 1000,
+    "total_investment": 15000,
+    "layoff_per_billion_ai": 66.7,
+    "investment_per_layoff": 15,
+    "total_employees": 26000,
+    "description": "CPU and GPU semiconductor company, major competitor to Nvidia in AI chips.",
+    "events": [
+      {
+        "id": "evt-amd-001",
+        "company_id": "amd",
+        "type": "layoff",
+        "date": "2024-01-15",
+        "number": 1000,
+        "amount": null,
+        "description": "AMD cuts ~1,000 jobs (~4% of workforce) amid PC market downturn",
+        "source_url": "https://www.reuters.com/technology/amd-layoffs-2024/",
+        "source_name": "Reuters",
+        "verified": true
+      },
+      {
+        "id": "evt-amd-002",
+        "company_id": "amd",
+        "type": "investment",
+        "date": "2024-06-03",
+        "number": null,
+        "amount": 15000,
+        "description": "AMD commits ≥15B to AI chip R&D (MI300 series) and data center GPU expansion",
+        "source_url": "https://www.cnbc.com/2024/06/03/amd-ai-chip-investment-mi300.html",
+        "source_name": "CNBC",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "adobe",
+    "name": "Adobe Inc.",
+    "ticker": "ADBE",
+    "sector": "SaaS",
+    "logo_url": "/logos/adobe.png",
+    "total_layoffs": 0,
+    "total_investment": 4000,
+    "layoff_per_billion_ai": 0,
+    "investment_per_layoff": 0,
+    "total_employees": 30000,
+    "description": "Creative software company behind Photoshop, Premiere, and Firefly AI.",
+    "events": [
+      {
+        "id": "evt-adbe-001",
+        "company_id": "adobe",
+        "type": "investment",
+        "date": "2024-03-26",
+        "number": null,
+        "amount": 3000,
+        "description": "Adobe invests ≥3B in Firefly generative AI and AI-powered creative tools",
+        "source_url": "https://www.adobe.com/news/press-releases/2024/03/adobe-firefly-investment.html",
+        "source_name": "Adobe Newsroom",
+        "verified": true
+      },
+      {
+        "id": "evt-adbe-002",
+        "company_id": "adobe",
+        "type": "investment",
+        "date": "2024-11-12",
+        "number": null,
+        "amount": 1000,
+        "description": "Adobe acquires AI video startup to bolster Firefly video capabilities",
+        "source_url": "https://techcrunch.com/2024/11/12/adobe-ai-video-acquisition/",
+        "source_name": "TechCrunch",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "samsung",
+    "name": "Samsung Electronics Co. Ltd.",
+    "ticker": null,
+    "sector": "Semiconductor",
+    "logo_url": "/logos/samsung.png",
+    "total_layoffs": 0,
+    "total_investment": 45000,
+    "layoff_per_billion_ai": 0,
+    "investment_per_layoff": 0,
+    "total_employees": 270000,
+    "description": "South Korean electronics and semiconductor giant, major AI chip memory supplier.",
+    "events": [
+      {
+        "id": "evt-sam-001",
+        "company_id": "samsung",
+        "type": "investment",
+        "date": "2024-04-30",
+        "number": null,
+        "amount": 45000,
+        "description": "Samsung commits ≥45B to AI chip manufacturing, HBM memory, and foundry expansion through 2030",
+        "source_url": "https://www.reuters.com/technology/samsung-ai-chip-investment-2024/",
+        "source_name": "Reuters",
+        "verified": true
+      }
+    ]
   }
 ]

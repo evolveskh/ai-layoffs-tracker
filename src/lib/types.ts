@@ -54,5 +54,5 @@ export interface CompanySummary {
   events: Event[];
 }
 
-export type SortField = "name" | "sector" | "total_layoffs" | "total_investment" | "layoff_per_billion_ai";
+export type SortField = "name" | "sector" | "total_layoffs" | "total_investment" | "last_event";
 export type SortDirection = "asc" | "desc";

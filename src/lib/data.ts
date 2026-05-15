@@ -85,6 +85,11 @@ export function sortSummaries(
   direction: SortDirection
 ): CompanySummary[] {
   return [...summaries].sort((a, b) => {
+    if (field === 'last_event') {
+      const aDate = a.events.length > 0 ? a.events[0].date : '';
+      const bDate = b.events.length > 0 ? b.events[0].date : '';
+      return direction === 'asc' ? aDate.localeCompare(bDate) : bDate.localeCompare(aDate);
+    }
     const aVal = a[field];
     const bVal = b[field];
     if (typeof aVal === 'string' && typeof bVal === 'string') {
@@ -96,6 +101,17 @@ export function sortSummaries(
       ? (aVal as number) - (bVal as number)
       : (bVal as number) - (aVal as number);
   });
+}
+
+export function getLastEventDate(summary: CompanySummary): string {
+  if (summary.events.length === 0) return '';
+  return summary.events[0].date;
+}
+
+export function formatDate(dateStr: string): string {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
 }
 
 export function formatNumber(n: number): string {

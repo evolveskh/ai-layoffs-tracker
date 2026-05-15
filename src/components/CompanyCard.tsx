@@ -1,26 +1,27 @@
 import type { CompanySummary } from '@/lib/types';
-import { formatNumber, formatMoney } from '@/lib/data';
+import { formatNumber, formatMoney, formatDate, getLastEventDate } from '@/lib/data';
 
 export default function CompanyCard({ summary }: { summary: CompanySummary }) {
   return (
-    <a href={`/company/${summary.id}`} className="block p-4 rounded-lg bg-[#1e293b] border border-slate-700/30 hover:border-slate-600 transition-all">
-      <div className="flex items-center justify-between mb-2">
-        <span className="font-semibold text-white">{summary.name}</span>
-        <span className="px-2 py-1 rounded text-xs bg-slate-700 text-slate-300">{summary.sector}</span>
+    <a href={`/company/${summary.id}`} className="block border border-[#171717] p-4 hover:border-[#262626] transition-colors duration-150">
+      <div className="flex items-center justify-between mb-1">
+        <span className="text-[14px] font-medium text-[#fafafa]">{summary.name}</span>
       </div>
-      <div className="grid grid-cols-3 gap-2 text-center">
-        <div>
-          <div className="text-red-400 font-bold text-lg">{formatNumber(summary.total_layoffs)}</div>
-          <div className="text-xs text-slate-500">Laid Off</div>
+      <div className="text-[12px] font-medium uppercase tracking-[0.02em] text-[#525252] mb-3">
+        {summary.sector}
+      </div>
+      <div className="flex items-center justify-between">
+        <div className="flex items-center gap-2">
+          <span className="w-[6px] h-[6px] rounded-full bg-[#e11d48]" />
+          <span className="font-mono text-[13px] font-medium text-[#fafafa]">{formatNumber(summary.total_layoffs)}</span>
         </div>
-        <div>
-          <div className="text-green-400 font-bold text-lg">{formatMoney(summary.total_investment)}</div>
-          <div className="text-xs text-slate-500">AI Spend</div>
+        <div className="flex items-center gap-2">
+          <span className="w-[6px] h-[6px] rounded-full bg-[#06b6d4]" />
+          <span className="font-mono text-[13px] font-medium text-[#fafafa]">{formatMoney(summary.total_investment)}</span>
         </div>
-        <div>
-          <div className="text-slate-300 font-bold text-lg">{summary.layoff_per_billion_ai.toFixed(1)}</div>
-          <div className="text-xs text-slate-500">/ $1B AI</div>
-        </div>
+      </div>
+      <div className="mt-2 text-[13px] text-[#525252]">
+        Last: {formatDate(getLastEventDate(summary))}
       </div>
     </a>
   );
