@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+# Git pre-commit hook: validate data consistency before every commit
+set -e
+
+# Only validate if data files changed
+if git diff --cached --name-only --diff-filter=ACM | grep -q "^data/"; then
+    echo "🔍 Data files changed — running validation..."
+    python3 scripts/validate_data.py
+    if [ $? -ne 0 ]; then
+        echo "❌ Data validation failed — commit prevented."
+        echo "   Fix the issues above, then commit again."
+        exit 1
+    fi
+fi
+
+# Also check that npm build works if data or source changed
+if git diff --cached --name-only --diff-filter=ACM | grep -qE "^(data/|src/|next\.config)"; then
+    echo "🏗️  Source/data changed — running build check..."
+    npm run build 2>&1 | tail -5
+    if [ ${PIPESTATUS[0]} -ne 0 ]; then
+        echo "❌ Build failed — commit prevented."
+        exit 1
+    fi
+fi

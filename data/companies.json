@@ -8,10 +8,10 @@
     "total_employees": 70000,
     "description": "Social media and metaverse company behind Facebook, Instagram, WhatsApp, and Threads.",
     "last_updated": "2026-05-18T00:00:00Z",
-    "total_layoffs": 35000,
+    "total_layoffs": 38600,
     "total_investment": 210000,
-    "layoff_per_billion_ai": 166.7,
-    "investment_per_layoff": 6.0
+    "layoff_per_billion_ai": 183.8,
+    "investment_per_layoff": 5.4
   },
   {
     "id": "google",
@@ -22,10 +22,10 @@
     "total_employees": 182000,
     "description": "Search, cloud, and AI conglomerate behind Google Search, YouTube, Cloud, and DeepMind.",
     "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 13000,
+    "total_layoffs": 13500,
     "total_investment": 75000,
-    "layoff_per_billion_ai": 173.3,
-    "investment_per_layoff": 5.77
+    "layoff_per_billion_ai": 180.0,
+    "investment_per_layoff": 5.6
   },
   {
     "id": "amazon",
@@ -38,8 +38,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 37500,
     "total_investment": 100000,
-    "layoff_per_billion_ai": 375,
-    "investment_per_layoff": 2.67
+    "layoff_per_billion_ai": 375.0,
+    "investment_per_layoff": 2.7
   },
   {
     "id": "microsoft",
@@ -50,10 +50,10 @@
     "total_employees": 228000,
     "description": "Enterprise software, cloud (Azure), and AI leader. Major investor in OpenAI.",
     "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 12900,
+    "total_layoffs": 15900,
     "total_investment": 80000,
-    "layoff_per_billion_ai": 161.2,
-    "investment_per_layoff": 6.2
+    "layoff_per_billion_ai": 198.8,
+    "investment_per_layoff": 5.0
   },
   {
     "id": "oracle",
@@ -66,8 +66,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 5000,
     "total_investment": 10000,
-    "layoff_per_billion_ai": 500,
-    "investment_per_layoff": 2
+    "layoff_per_billion_ai": 500.0,
+    "investment_per_layoff": 2.0
   },
   {
     "id": "apple",
@@ -79,9 +79,9 @@
     "description": "Consumer electronics and services. Developing Apple Intelligence.",
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 600,
-    "total_investment": 0,
-    "layoff_per_billion_ai": 0,
-    "investment_per_layoff": 0
+    "total_investment": 10000,
+    "layoff_per_billion_ai": 60.0,
+    "investment_per_layoff": 16.7
   },
   {
     "id": "tesla",
@@ -94,8 +94,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 14500,
     "total_investment": 25000,
-    "layoff_per_billion_ai": 580,
-    "investment_per_layoff": 1.72
+    "layoff_per_billion_ai": 580.0,
+    "investment_per_layoff": 1.7
   },
   {
     "id": "salesforce",
@@ -108,8 +108,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 8700,
     "total_investment": 4000,
-    "layoff_per_billion_ai": 2175,
-    "investment_per_layoff": 0.46
+    "layoff_per_billion_ai": 2175.0,
+    "investment_per_layoff": 0.5
   },
   {
     "id": "intel",
@@ -121,9 +121,9 @@
     "description": "Semiconductor chip manufacturer investing in AI chip fabrication.",
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 20000,
-    "total_investment": 0,
-    "layoff_per_billion_ai": 0,
-    "investment_per_layoff": 0
+    "total_investment": 20000,
+    "layoff_per_billion_ai": 1000.0,
+    "investment_per_layoff": 1.0
   },
   {
     "id": "ibm",
@@ -136,8 +136,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 4900,
     "total_investment": 5000,
-    "layoff_per_billion_ai": 980,
-    "investment_per_layoff": 1.02
+    "layoff_per_billion_ai": 980.0,
+    "investment_per_layoff": 1.0
   },
   {
     "id": "sap",
@@ -150,8 +150,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 8000,
     "total_investment": 2000,
-    "layoff_per_billion_ai": 4000,
-    "investment_per_layoff": 0.25
+    "layoff_per_billion_ai": 4000.0,
+    "investment_per_layoff": 0.2
   },
   {
     "id": "cisco",
@@ -165,7 +165,7 @@
     "total_layoffs": 14300,
     "total_investment": 1000,
     "layoff_per_billion_ai": 14300.0,
-    "investment_per_layoff": 0.07
+    "investment_per_layoff": 0.1
   },
   {
     "id": "paypal",
@@ -178,7 +178,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 2500,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 2500,
+    "layoff_per_billion_ai": 2500.0,
     "investment_per_layoff": 0.4
   },
   {
@@ -192,8 +192,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 2100,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 2100,
-    "investment_per_layoff": 0.48
+    "layoff_per_billion_ai": 2100.0,
+    "investment_per_layoff": 0.5
   },
   {
     "id": "uber",
@@ -206,8 +206,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 4200,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 4200,
-    "investment_per_layoff": 0.24
+    "layoff_per_billion_ai": 4200.0,
+    "investment_per_layoff": 0.2
   },
   {
     "id": "lyft",
@@ -220,8 +220,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 1072,
     "total_investment": 500,
-    "layoff_per_billion_ai": 2144,
-    "investment_per_layoff": 0.47
+    "layoff_per_billion_ai": 2144.0,
+    "investment_per_layoff": 0.5
   },
   {
     "id": "twitter",
@@ -234,8 +234,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 5700,
     "total_investment": 2000,
-    "layoff_per_billion_ai": 2850,
-    "investment_per_layoff": 0.35
+    "layoff_per_billion_ai": 2850.0,
+    "investment_per_layoff": 0.4
   },
   {
     "id": "snap",
@@ -248,8 +248,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 530,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 530,
-    "investment_per_layoff": 1.89
+    "layoff_per_billion_ai": 530.0,
+    "investment_per_layoff": 1.9
   },
   {
     "id": "netflix",
@@ -262,8 +262,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 450,
     "total_investment": 2000,
-    "layoff_per_billion_ai": 225,
-    "investment_per_layoff": 4.44
+    "layoff_per_billion_ai": 225.0,
+    "investment_per_layoff": 4.4
   },
   {
     "id": "shopify",
@@ -276,7 +276,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 2000,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 2000,
+    "layoff_per_billion_ai": 2000.0,
     "investment_per_layoff": 0.5
   },
   {
@@ -290,7 +290,7 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 330,
     "total_investment": 10000,
-    "layoff_per_billion_ai": 33,
+    "layoff_per_billion_ai": 33.0,
     "investment_per_layoff": 30.3
   },
   {
@@ -304,8 +304,8 @@
     "last_updated": "2026-05-15T00:00:00Z",
     "total_layoffs": 19650,
     "total_investment": 5000,
-    "layoff_per_billion_ai": 3930,
-    "investment_per_layoff": 0.25
+    "layoff_per_billion_ai": 3930.0,
+    "investment_per_layoff": 0.3
   },
   {
     "id": "amd",
@@ -316,7 +316,7 @@
     "total_layoffs": 1000,
     "total_investment": 15000,
     "layoff_per_billion_ai": 66.7,
-    "investment_per_layoff": 15,
+    "investment_per_layoff": 15.0,
     "total_employees": 26000,
     "description": "CPU and GPU semiconductor company, major competitor to Nvidia in AI chips.",
     "events": [
@@ -344,7 +344,8 @@
         "source_name": "CNBC",
         "verified": true
       }
-    ]
+    ],
+    "last_updated": "2026-05-18T00:00:00Z"
   },
   {
     "id": "adobe",
@@ -354,7 +355,7 @@
     "logo_url": "/logos/adobe.png",
     "total_layoffs": 0,
     "total_investment": 4000,
-    "layoff_per_billion_ai": 0,
+    "layoff_per_billion_ai": 0.0,
     "investment_per_layoff": 0,
     "total_employees": 30000,
     "description": "Creative software company behind Photoshop, Premiere, and Firefly AI.",
@@ -383,7 +384,8 @@
         "source_name": "TechCrunch",
         "verified": true
       }
-    ]
+    ],
+    "last_updated": "2026-05-18T00:00:00Z"
   },
   {
     "id": "samsung",
@@ -393,7 +395,7 @@
     "logo_url": "/logos/samsung.png",
     "total_layoffs": 0,
     "total_investment": 45000,
-    "layoff_per_billion_ai": 0,
+    "layoff_per_billion_ai": 0.0,
     "investment_per_layoff": 0,
     "total_employees": 270000,
     "description": "South Korean electronics and semiconductor giant, major AI chip memory supplier.",
@@ -410,7 +412,8 @@
         "source_name": "Reuters",
         "verified": true
       }
-    ]
+    ],
+    "last_updated": "2026-05-18T00:00:00Z"
   },
   {
     "id": "linkedin",
@@ -424,6 +427,6 @@
     "total_layoffs": 875,
     "total_investment": 0,
     "layoff_per_billion_ai": 0,
-    "investment_per_layoff": 0
+    "investment_per_layoff": 0.0
   }
 ]
