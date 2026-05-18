@@ -6,7 +6,7 @@
     "date": "2022-11-09",
     "number": 11000,
     "amount": null,
-    "description": "First major layoff — 13% of workforce cut as Zuckerberg declares 'year of efficiency'",
+    "description": "First major layoff \u2014 13% of workforce cut as Zuckerberg declares 'year of efficiency'",
     "source_url": "https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/",
     "source_name": "Meta Newsroom",
     "verified": true
@@ -30,7 +30,7 @@
     "date": "2023-05-24",
     "number": 6000,
     "amount": null,
-    "description": "Third wave of cuts — business and operations roles",
+    "description": "Third wave of cuts \u2014 business and operations roles",
     "source_url": "https://www.cnbc.com/2023/05/24/meta-layoffs-2023.html",
     "source_name": "CNBC",
     "verified": true
@@ -54,7 +54,7 @@
     "date": "2023-01-20",
     "number": 12000,
     "amount": null,
-    "description": "Google lays off 12,000 employees (~6% of workforce) — largest in company history",
+    "description": "Google lays off 12,000 employees (~6% of workforce) \u2014 largest in company history",
     "source_url": "https://blog.google/inside-google/message-from-ceo-january2023/",
     "source_name": "Google Blog",
     "verified": true
@@ -90,7 +90,7 @@
     "date": "2022-11-16",
     "number": 10000,
     "amount": null,
-    "description": "Amazon begins corporate layoffs — devices and retail hit first",
+    "description": "Amazon begins corporate layoffs \u2014 devices and retail hit first",
     "source_url": "https://www.cnbc.com/2022/11/16/amazon-layoffs-begin.html",
     "source_name": "CNBC",
     "verified": true
@@ -102,7 +102,7 @@
     "date": "2023-01-05",
     "number": 18000,
     "amount": null,
-    "description": "Amazon expands layoffs to 18,000+ — largest in company history",
+    "description": "Amazon expands layoffs to 18,000+ \u2014 largest in company history",
     "source_url": "https://www.aboutamazon.com/news/company-news/update-from-ceo-andy-jassy-on-amazons-operational-changes",
     "source_name": "Amazon News",
     "verified": true
@@ -247,7 +247,7 @@
     "date": "2024-05-06",
     "number": 500,
     "amount": null,
-    "description": "Additional cuts — Supercharger team largely eliminated",
+    "description": "Additional cuts \u2014 Supercharger team largely eliminated",
     "source_url": "https://www.theverge.com/2024/5/6/24150602/tesla-supercharger-team-layoffs",
     "source_name": "The Verge",
     "verified": true
@@ -259,7 +259,7 @@
     "date": "2023-01-04",
     "number": 8000,
     "amount": null,
-    "description": "Salesforce cuts 10% of workforce (~8,000 jobs) — largest ever for the company",
+    "description": "Salesforce cuts 10% of workforce (~8,000 jobs) \u2014 largest ever for the company",
     "source_url": "https://www.cnbc.com/2023/01/04/salesforce-layoffs-2023.html",
     "source_name": "CNBC",
     "verified": true
@@ -320,7 +320,7 @@
     "date": "2023-01-25",
     "number": 3900,
     "amount": null,
-    "description": "IBM cuts 3,900 jobs (~1.5% of workforce) — replacing many with AI",
+    "description": "IBM cuts 3,900 jobs (~1.5% of workforce) \u2014 replacing many with AI",
     "source_url": "https://www.cnbc.com/2023/01/25/ibm-layoffs-2023.html",
     "source_name": "CNBC",
     "verified": true
@@ -357,7 +357,7 @@
     "date": "2024-01-23",
     "number": 8000,
     "amount": null,
-    "description": "SAP restructures 8,000 jobs — pivoting toward AI roles and Joule copilot",
+    "description": "SAP restructures 8,000 jobs \u2014 pivoting toward AI roles and Joule copilot",
     "source_url": "https://www.cnbc.com/2024/01/23/sap-restructuring-8000-jobs-ai.html",
     "source_name": "CNBC",
     "verified": true
@@ -418,7 +418,7 @@
     "date": "2024-01-30",
     "number": 2500,
     "amount": null,
-    "description": "PayPal cuts 2,500 jobs (~9% of workforce) — CEO says AI will drive efficiency",
+    "description": "PayPal cuts 2,500 jobs (~9% of workforce) \u2014 CEO says AI will drive efficiency",
     "source_url": "https://www.cnbc.com/2024/01/30/paypal-layoffs-2024.html",
     "source_name": "CNBC",
     "verified": true
@@ -454,7 +454,7 @@
     "date": "2023-12-04",
     "number": 1500,
     "amount": null,
-    "description": "Spotify lays off 17% of workforce (~1,500 jobs) — largest cut in company history",
+    "description": "Spotify lays off 17% of workforce (~1,500 jobs) \u2014 largest cut in company history",
     "source_url": "https://newsroom.spotify.com/2023-12-04/ceo-daniel-ek-letter-to-employees/",
     "source_name": "Spotify Newsroom",
     "verified": true
@@ -730,7 +730,7 @@
     "date": "2025-02-04",
     "number": null,
     "amount": 10000,
-    "description": "Apple commits ≥10B to AI infrastructure in FY2025, building out Apple Intelligence compute",
+    "description": "Apple commits \u226510B to AI infrastructure in FY2025, building out Apple Intelligence compute",
     "source_url": "https://www.cnbc.com/2025/02/04/apple-ai-capex-2025.html",
     "source_name": "CNBC",
     "verified": true
@@ -742,7 +742,7 @@
     "date": "2024-12-19",
     "number": null,
     "amount": 20000,
-    "description": "Intel commits ≥20B to AI chip manufacturing (Gaudi 3, Falcon Shores) and US fab expansion",
+    "description": "Intel commits \u226520B to AI chip manufacturing (Gaudi 3, Falcon Shores) and US fab expansion",
     "source_url": "https://www.reuters.com/technology/intel-ai-chip-manufacturing-investment-2024/",
     "source_name": "Reuters",
     "verified": true
@@ -802,7 +802,7 @@
     "date": "2024-06-03",
     "number": null,
     "amount": 15000,
-    "description": "AMD commits ≥15B to AI chip R&D (MI300 series) and data center GPU expansion",
+    "description": "AMD commits \u226515B to AI chip R&D (MI300 series) and data center GPU expansion",
     "source_url": "https://www.cnbc.com/2024/06/03/amd-ai-chip-investment-mi300.html",
     "source_name": "CNBC",
     "verified": true
@@ -814,7 +814,7 @@
     "date": "2024-03-26",
     "number": null,
     "amount": 3000,
-    "description": "Adobe invests ≥3B in Firefly generative AI and AI-powered creative tools",
+    "description": "Adobe invests \u22653B in Firefly generative AI and AI-powered creative tools",
     "source_url": "https://www.adobe.com/news/press-releases/2024/03/adobe-firefly-investment.html",
     "source_name": "Adobe Newsroom",
     "verified": true
@@ -838,9 +838,69 @@
     "date": "2024-04-30",
     "number": null,
     "amount": 45000,
-    "description": "Samsung commits ≥45B to AI chip manufacturing, HBM memory, and foundry expansion through 2030",
+    "description": "Samsung commits \u226545B to AI chip manufacturing, HBM memory, and foundry expansion through 2030",
     "source_url": "https://www.reuters.com/technology/samsung-ai-chip-investment-2024/",
     "source_name": "Reuters",
+    "verified": true
+  },
+  {
+    "id": "evt-meta-006",
+    "company_id": "meta",
+    "type": "layoff",
+    "date": "2026-05-20",
+    "number": 8000,
+    "amount": null,
+    "description": "Meta cuts 8,000 employees (10% of ~78,000 workforce); first wave of potential 20% total reduction planned for 2026 with additional H2 cuts",
+    "source_url": "https://seekingalpha.com/news/4576276/meta-to-start-companywide-layoffs-may-20---reuters",
+    "source_name": "Seeking Alpha / Reuters",
+    "verified": true
+  },
+  {
+    "id": "evt-meta-007",
+    "company_id": "meta",
+    "type": "investment",
+    "date": "2026-04-30",
+    "number": null,
+    "amount": 145000,
+    "description": "Meta raises full-year AI capex guide to $125-145B; commits $21B to CoreWeave (AI cloud provider) and signs multibillion-dollar Graviton5 chip deal for agentic AI workloads",
+    "source_url": "https://tech-insider.org/meta-layoffs-8000-employees-135-billion-ai-capex-2026",
+    "source_name": "Tech-Insider",
+    "verified": true
+  },
+  {
+    "id": "evt-csco-004",
+    "company_id": "cisco",
+    "type": "layoff",
+    "date": "2026-05-14",
+    "number": 4000,
+    "amount": null,
+    "description": "Cisco cuts 4,000 employees (5% of workforce) despite reporting record Q3 revenue of $15.8B (+12% YoY)",
+    "source_url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+    "source_name": "InformationWeek",
+    "verified": true
+  },
+  {
+    "id": "evt-csco-005",
+    "company_id": "cisco",
+    "type": "investment",
+    "date": "2026-05-14",
+    "number": null,
+    "amount": null,
+    "description": "Cisco prioritizing investment in silicon, optics, security and AI across the company alongside restructuring",
+    "source_url": "https://www.informationweek.com/it-staffing-careers/2026-tech-company-layoffs",
+    "source_name": "InformationWeek",
+    "verified": true
+  },
+  {
+    "id": "evt-linkedin-001",
+    "company_id": "linkedin",
+    "type": "layoff",
+    "date": "2026-05-13",
+    "number": 875,
+    "amount": null,
+    "description": "LinkedIn (Microsoft subsidiary) cuts ~5% of workforce (~875 of ~17,500 employees), affecting engineering, product, and marketing; NOT AI-driven",
+    "source_url": "https://www.techrepublic.com/article/news-linkedin-layoffs-may-2026",
+    "source_name": "TechRepublic",
     "verified": true
   }
 ]

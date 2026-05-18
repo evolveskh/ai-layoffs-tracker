@@ -5,13 +5,13 @@
     "ticker": "META",
     "sector": "Big Tech",
     "logo_url": "/logos/meta.png",
-    "total_employees": 72000,
+    "total_employees": 70000,
     "description": "Social media and metaverse company behind Facebook, Instagram, WhatsApp, and Threads.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 27000,
-    "total_investment": 65000,
-    "layoff_per_billion_ai": 415.4,
-    "investment_per_layoff": 2.41
+    "last_updated": "2026-05-18T00:00:00Z",
+    "total_layoffs": 35000,
+    "total_investment": 210000,
+    "layoff_per_billion_ai": 166.7,
+    "investment_per_layoff": 6.0
   },
   {
     "id": "google",
@@ -159,13 +159,13 @@
     "ticker": "CSCO",
     "sector": "Enterprise",
     "logo_url": "/logos/cisco.png",
-    "total_employees": 85000,
+    "total_employees": 76000,
     "description": "Networking hardware and enterprise technology company.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 10300,
+    "last_updated": "2026-05-18T00:00:00Z",
+    "total_layoffs": 14300,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 10300,
-    "investment_per_layoff": 0.1
+    "layoff_per_billion_ai": 14300.0,
+    "investment_per_layoff": 0.07
   },
   {
     "id": "paypal",
@@ -339,7 +339,7 @@
         "date": "2024-06-03",
         "number": null,
         "amount": 15000,
-        "description": "AMD commits ≥15B to AI chip R&D (MI300 series) and data center GPU expansion",
+        "description": "AMD commits \u226515B to AI chip R&D (MI300 series) and data center GPU expansion",
         "source_url": "https://www.cnbc.com/2024/06/03/amd-ai-chip-investment-mi300.html",
         "source_name": "CNBC",
         "verified": true
@@ -366,7 +366,7 @@
         "date": "2024-03-26",
         "number": null,
         "amount": 3000,
-        "description": "Adobe invests ≥3B in Firefly generative AI and AI-powered creative tools",
+        "description": "Adobe invests \u22653B in Firefly generative AI and AI-powered creative tools",
         "source_url": "https://www.adobe.com/news/press-releases/2024/03/adobe-firefly-investment.html",
         "source_name": "Adobe Newsroom",
         "verified": true
@@ -405,11 +405,25 @@
         "date": "2024-04-30",
         "number": null,
         "amount": 45000,
-        "description": "Samsung commits ≥45B to AI chip manufacturing, HBM memory, and foundry expansion through 2030",
+        "description": "Samsung commits \u226545B to AI chip manufacturing, HBM memory, and foundry expansion through 2030",
         "source_url": "https://www.reuters.com/technology/samsung-ai-chip-investment-2024/",
         "source_name": "Reuters",
         "verified": true
       }
     ]
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn Corporation",
+    "ticker": null,
+    "sector": "Other",
+    "logo_url": "/logos/linkedin.png",
+    "total_employees": 16625,
+    "description": "Professional networking platform, Microsoft subsidiary. 5% workforce cut in May 2026, not AI-driven.",
+    "last_updated": "2026-05-18T00:00:00Z",
+    "total_layoffs": 875,
+    "total_investment": 0,
+    "layoff_per_billion_ai": 0,
+    "investment_per_layoff": 0
   }
 ]
