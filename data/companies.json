@@ -7,11 +7,11 @@
     "logo_url": "/logos/meta.png",
     "total_employees": 70000,
     "description": "Social media and metaverse company behind Facebook, Instagram, WhatsApp, and Threads.",
-    "last_updated": "2026-05-18T00:00:00Z",
-    "total_layoffs": 38600,
+    "last_updated": "2026-05-19T01:29:27Z",
+    "total_layoffs": 40100,
     "total_investment": 210000,
-    "layoff_per_billion_ai": 183.8,
-    "investment_per_layoff": 5.4
+    "layoff_per_billion_ai": 191.0,
+    "investment_per_layoff": 5.2
   },
   {
     "id": "google",
@@ -35,11 +35,11 @@
     "logo_url": "/logos/amazon.png",
     "total_employees": 1525000,
     "description": "E-commerce and cloud computing giant. Parent of AWS.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 37500,
+    "last_updated": "2026-05-19T01:29:27Z",
+    "total_layoffs": 67500,
     "total_investment": 100000,
-    "layoff_per_billion_ai": 375.0,
-    "investment_per_layoff": 2.7
+    "layoff_per_billion_ai": 675.0,
+    "investment_per_layoff": 1.5
   },
   {
     "id": "microsoft",
@@ -63,11 +63,11 @@
     "logo_url": "/logos/oracle.png",
     "total_employees": 164000,
     "description": "Database and enterprise cloud software giant.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 5000,
+    "last_updated": "2026-05-19T01:29:27Z",
+    "total_layoffs": 15000,
     "total_investment": 10000,
-    "layoff_per_billion_ai": 500.0,
-    "investment_per_layoff": 2.0
+    "layoff_per_billion_ai": 1500.0,
+    "investment_per_layoff": 0.7
   },
   {
     "id": "apple",
@@ -91,11 +91,11 @@
     "logo_url": "/logos/tesla.png",
     "total_employees": 140000,
     "description": "Electric vehicle and clean energy company with major AI/autonomy investments.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 14500,
+    "last_updated": "2026-05-19T01:29:27Z",
+    "total_layoffs": 16200,
     "total_investment": 25000,
-    "layoff_per_billion_ai": 580.0,
-    "investment_per_layoff": 1.7
+    "layoff_per_billion_ai": 648.0,
+    "investment_per_layoff": 1.5
   },
   {
     "id": "salesforce",
@@ -245,11 +245,11 @@
     "logo_url": "/logos/snap.png",
     "total_employees": 5000,
     "description": "Camera and social media company behind Snapchat and My AI chatbot.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 530,
+    "last_updated": "2026-05-19T01:29:27Z",
+    "total_layoffs": 1530,
     "total_investment": 1000,
-    "layoff_per_billion_ai": 530.0,
-    "investment_per_layoff": 1.9
+    "layoff_per_billion_ai": 1530.0,
+    "investment_per_layoff": 0.7
   },
   {
     "id": "netflix",
@@ -301,11 +301,11 @@
     "logo_url": "/logos/dell.png",
     "total_employees": 120000,
     "description": "PC, server, and IT infrastructure company pivoting to AI servers.",
-    "last_updated": "2026-05-15T00:00:00Z",
-    "total_layoffs": 19650,
+    "last_updated": "2026-05-19T01:29:27Z",
+    "total_layoffs": 30650,
     "total_investment": 5000,
-    "layoff_per_billion_ai": 3930.0,
-    "investment_per_layoff": 0.3
+    "layoff_per_billion_ai": 6130.0,
+    "investment_per_layoff": 0.2
   },
   {
     "id": "amd",
